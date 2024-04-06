@@ -1,0 +1,7 @@
+echo "# Emotion-Detection-System-Roman-Urdu" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HaroonAbdullah2/Emotion-Detection-System-Roman-Urdu.git
+git push -u origin main
